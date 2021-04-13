@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Anjan, and I'm a first-year student at UC Berkeley studying Computer Science! 
-- 🔭 I'm currently working as a back-end web developer at [Clicked](clicked.com) and as an Android developer at [Berkeley Mobile](https://octo.asuc.org/). 
+- 🔭 I'm currently working as a back-end web developer at [Clicked](https://clicked.com) through [Web Development at Berkeley](https://webatberkeley.org/) and as an Android developer at [Berkeley Mobile](https://octo.asuc.org/). 
 - 👯 I’m looking to collaborate on full-stack web projects! Shoot me an email at anjanb [at] berkeley [dot] edu!
 - 😄 Pronouns: He/His/Him
 - 📫 How to reach me: You can find my contact information [here](anjanbharadwaj.me)
