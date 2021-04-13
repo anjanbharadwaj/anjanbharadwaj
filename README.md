@@ -8,7 +8,6 @@ I'm Anjan, and I'm a first-year student at UC Berkeley studying Computer Science
 
 
 
-Feel free to check out my profi
 <!--
 **anjanbharadwaj/anjanbharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
