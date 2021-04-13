@@ -1,6 +1,14 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanbharadwaj)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm Anjan, and I'm a first-year student at UC Berkeley studying Computer Science! 
+- 🔭 I'm currently working as a back-end web developer at [Clicked](clicked.com) and as an Android developer at [Berkeley Mobile](https://octo.asuc.org/). 
+- 👯 I’m looking to collaborate on full-stack web projects! Shoot me an email at anjanb [at] berkeley [dot] edu!
+- 😄 Pronouns: He/His/Him
+- 📫 How to reach me: You can find my contact information [here](anjanbharadwaj.me)
+
+
+
+Feel free to check out my profi
 <!--
 **anjanbharadwaj/anjanbharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
